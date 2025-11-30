@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://chatppt.ggff.net</id>
+    <title>Eitan</title>
+    <updated>2025-11-30T14:43:58.880Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://chatppt.ggff.net"/>
+    <link rel="self" href="https://chatppt.ggff.net/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://chatppt.ggff.net/images/avatar.png</logo>
+    <icon>https://chatppt.ggff.net/favicon.ico</icon>
+    <rights>All rights reserved 2025, Eitan</rights>
+    <entry>
+        <title type="html"><![CDATA[硬盘好贵]]></title>
+        <id>https://chatppt.ggff.net/post/ying-pan-hao-gui/</id>
+        <link href="https://chatppt.ggff.net/post/ying-pan-hao-gui/">
+        </link>
+        <updated>2025-11-30T14:43:11.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://chatppt.ggff.net/post-images/1764513820806.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[折腾系统]]></title>
+        <id>https://chatppt.ggff.net/post/zhe-teng-xi-tong/</id>
+        <link href="https://chatppt.ggff.net/post/zhe-teng-xi-tong/">
+        </link>
+        <updated>2025-11-30T14:35:04.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>黑苹果系统</p>
+</blockquote>
+<p>最近刷了好多关于黑苹果的视频，我在qq群里也问了几个，感觉应该会好玩一点吧，可惜我折腾了两天还没折腾好，那个efi真恶心，还得自己一个一个配，我感觉这种事情好难，要不还是放弃吧，win11还是能凑合用的</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感冒了]]></title>
+        <id>https://chatppt.ggff.net/post/gan-mou-liao/</id>
+        <link href="https://chatppt.ggff.net/post/gan-mou-liao/">
+        </link>
+        <updated>2025-11-30T14:18:19.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="感冒是真难受">感冒是真难受😓</h1>
+<p>真是奇了怪了，我从2023年8月后还没发过烧，难道我的抵抗力很强吗？ 也许是我之前经常锻炼的原因吧。最近玩都市天际线玩了好久，这游戏确实挺好玩的，貌似还需要学很多东西，我看酒馆群里有人玩一个存档玩了三个月，我没他的毅力能玩一个存档这么久，我可能玩上几天就不想玩了吧。</p>
+]]></content>
+    </entry>
+</feed>
